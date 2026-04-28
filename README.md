@@ -25,7 +25,6 @@ The company is experiencing variation in sales and profit across regions, catego
 - Dataset (excel)
 - Excel Analysis
 - Power BI Dashboard
-- Screenshots
 
-## 📸 Dashboard Preview
-(Add screenshot here)
+
+
